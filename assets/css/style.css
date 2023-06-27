@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    --bool-dark: black;
+    --bool-addtask: #47adf1;
+    --bool-addsection: #e2e5e7;
+    --bool-edit: #45abea;
+    --bool-Q1: #9c72e4;
+    --bool-recr:#64c0a9;
+    --bool-mob: #f29e33;
+    --bool-sales: #b0c926;
+    --bool-web: #d863a1;
+    --bool-bg: #f6f8f9;
+}
