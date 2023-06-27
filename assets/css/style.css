@@ -17,6 +17,10 @@
     --bool-bg: #f6f8f9;
 }
 
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
 .page_header{
     background-color: white;
     background-size: 80px;
