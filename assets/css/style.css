@@ -82,3 +82,97 @@ button{
 section{
     margin: 30px;
 }
+
+.check{
+    display: inline-block;
+    color: green;
+    width: 10px;
+    height: 10px;
+    border: 15px solid green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 10px;
+}
+
+.cross{
+    color: red;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 15px solid red;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 10px;
+}
+
+.edit {
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    background-color: var(--bool-edit);
+    border-radius: 30px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.Q1{
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    background-color: var(--bool-Q1);
+    border-radius: 30px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.recr{
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    background-color: var(--bool-recr);
+    border-radius: 30px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.mob{
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    background-color: var(--bool-mob);
+    border-radius: 30px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.web{
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    background-color: var(--bool-web);
+    border-radius: 30px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.sales{
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    background-color: var(--bool-sales);
+    border-radius: 30px;
+    text-align: center;
+    line-height: 20px;
+}
