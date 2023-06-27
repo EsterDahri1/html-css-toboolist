@@ -16,3 +16,49 @@
     --bool-web: #d863a1;
     --bool-bg: #f6f8f9;
 }
+
+.page_header{
+    background-color: white;
+    background-size: 80px;
+}
+
+#logo{
+    width: 50px;
+}
+
+.page_title{
+    font-size: 50px;
+    vertical-align: top;
+    display: inline-block;
+    line-height: 60px;
+}
+
+body{
+    background-color: var(--bool-bg);
+}
+
+main{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#add_task{
+    background-color: var(--bool-addtask);
+    color: white;
+    border-color: var(--bool-addtask);
+    border-radius: 3px;
+    border-width: 0;
+    padding: 4px;
+}
+
+#add_section{
+    background-color: white;
+    color: var(--bool-addsection);
+    border-color: var(--bool-addsection);
+    border-radius: 3px;
+    border-width: 0.5;
+    padding: 4px;
+}
